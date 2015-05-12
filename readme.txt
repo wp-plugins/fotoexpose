@@ -19,9 +19,9 @@ A simple and clean way to show off your images. No need for people to page throu
 3. Place this text in the body [fotoexpose][/fotoexpose]
 4. Insert images between the tags
 
-The thumbnails will be the size set in Wordpress Settings>Media. I recommend they are not taller than 96px. Although it is totally up to you. If you want a custom thumbnail size you must change this setting before uploading the images. You can change it back after uploading. FotoExposé uses the Wordpress Setting>Media \"Large Size\" for the large images.
+The thumbnails will be the size set in Wordpress Settings>Media. I recommend they are not taller than 96px. Although it is totally up to you. If you want a custom thumbnail size you must change this setting before uploading the images. You can change it back after uploading. FotoExposé uses the Wordpress Setting>Media \"Large Size\" for the large images. If you have images already upload you can use a thumbnail regeneration plugin.
 
-To remove images you must remove them from the page and the media library.
+To remove gallery, simply delete the tags and images
 
 == Screenshots ==
 1. screenshot-1.png
