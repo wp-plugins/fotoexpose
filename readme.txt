@@ -4,7 +4,7 @@ Tags: Gallery,Photos,Images,Display,Slideshow
 Donate link: http://rgbmedium.com/?p=fotoexpose
 Requires at least: 4.1.1
 Tested up to: 4.1.1
-Stable tag: 1.0.2
+Stable tag: 1.0.2.0
 License: GPLv2 or later
 
 Image Gallery

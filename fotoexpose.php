@@ -3,7 +3,7 @@
 Plugin Name: FotoExposé
 Plugin URI: http://www.rgbmedium.com
 Description: A simple and clean way to show off your images. No need for people to page through your gallery as FotoExposé keeps it all on one page. A thumbnail indicator lets users know exactly what image they are viewing. FotoExposé has a automatic slideshow displaying each image at a specific interval. Your images deserve the best presentation and we think you are going to love FotoExposé,
-Version: 1.0.2
+Version: 1.0.2.0
 Author: RGB Medium
 Author URI: www.linkedin.com/pub/mark-tank/42/93/7b4/
 License: GPLv2 or later
