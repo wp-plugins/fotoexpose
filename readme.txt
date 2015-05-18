@@ -25,3 +25,7 @@ To remove gallery, simply delete the tags and images
 
 == Screenshots ==
 1. screenshot-1.png
+
+== Changelog ==
+
+version 1.0.2.0 added the ability to an image from different attachment page id
