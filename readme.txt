@@ -1,6 +1,6 @@
 === FotoExposé ===
 Contributors: Mark
-Tags: Gallery,Photos,Images,Display,Slideshow
+Tags: Gallery,Photos,Images,Display,Slideshow,Plugin,Shortcode,Posts
 Donate link: http://rgbmedium.com/?p=fotoexpose
 Requires at least: 4.1.1
 Tested up to: 4.1.1
