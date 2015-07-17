@@ -4,7 +4,7 @@ Tags: Gallery,Photos,Images,Display,Slideshow,Plugin,Shortcode,Posts
 Donate link: http://rgbmedium.com/?p=fotoexpose
 Requires at least: 4.1.1
 Tested up to: 4.1.1
-Stable tag: 1.0.2.0
+Stable tag: 1.0.3.0
 License: GPLv2 or later
 
 A simple to use, elegant image gallery with an automatic slideshow feature. 
@@ -29,3 +29,4 @@ To remove gallery, simply delete the tags and images
 == Changelog ==
 
 version 1.0.2.0 added the ability to an image from different attachment page id
+version 1.0.3.0 adds a more mobile friendly layout

@@ -1,7 +1,7 @@
-(function($) {
-	$(window).load(function() {
-		$(document).ready(function() {
-			$('#fe-thumbs').fotoexpose({'effects':'fe-largeshadow'});
+jQuery(function() {
+	jQuery(window).load(function() {
+		jQuery(document).ready(function() {
+			jQuery('#fe-thumbs').fotoexpose({'effects':'fe-largeshadow'});
 		});
 	})
-})(jQuery);
+});
