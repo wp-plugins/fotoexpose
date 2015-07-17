@@ -10,7 +10,7 @@ License: GPLv2 or later
 A simple to use, elegant image gallery with an automatic slideshow feature. 
 
 == Description ==
-A simple and clean way to show off your images. No need for people to page through your gallery as FotoExposé keeps it all on one page. A thumbnail indicator lets users know exactly what image they are viewing. FotoExposé has a automatic slideshow displaying each image at a specific interval. Your images deserve the best presentation and we think you are going to love FotoExposé,
+A simple and clean way to show off your images. No need for people to page through your gallery as FotoExposé keeps it all on one page. A thumbnail indicator lets users know exactly what image they are viewing. FotoExposé has an automatic slideshow displaying each image at a specific interval. Your images deserve the best presentation and we think you are going to love FotoExposé,
 
 
 == Installation ==
